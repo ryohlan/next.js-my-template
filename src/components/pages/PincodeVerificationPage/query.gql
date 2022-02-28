@@ -1,0 +1,5 @@
+mutation verifyPincode($confirmInput: ConfirmInput!) {
+  confirm(input: $confirmInput) {
+    success
+  }
+}

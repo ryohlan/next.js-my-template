@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(./loading.css);
+@import url(./button_gradients.css);
+
+* {
+  font-family: HelveticaNeue;
+}
+
+input:focus {
+  outline: 1px #ffffff solid;
+}

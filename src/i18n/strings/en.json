@@ -1,0 +1,46 @@
+{
+  "EmailForm.emailHint": "hello@gmail.com",
+  "EmailForm.error": "Incorrect address format",
+
+  "PasswordForm.passwordHint": "Password",
+  "PasswordForm.lengthError": "Password needs to be at least 8 characters",
+  "PasswordForm.specialCharacterError": "Needs to contain a special character",
+  "PasswordForm.numbersError": "Needs to contain a number",
+  "PasswordForm.upperCaseError": "Needs to contain uppercase letters",
+
+  "PincodeForm.pincodeHint": "# VerificationCode",
+  "PincodeForm.resend": "Resend",
+  "PincodeForm.error": "VerificationCode needs to be 6 numbers",
+
+  "Dialog.ok": "OK",
+  "Dialog.cancel": "Cancel",
+  "Dialog.close": "Close",
+
+  "Error.default": "Network error",
+
+  "LoginPage.headTitle": "Login",
+  "LoginPage.title": "LOGIN",
+  "LoginPage.submit": "LOGIN",
+  "LoginPage.signUpLink": "SIGN_UP",
+  "LoginPage.passwordResetLink": "PASSWORD RESET",
+
+  "SignUpPage.headTitle": "Sign Up",
+  "SignUpPage.title": "SIGN UP",
+  "SignUpPage.submit": "REGISTER",
+  "SignUpPage.loginLink": "LOGIN",
+  "SignUpPage.policyTerms": "I agree to Privacy Policy and User Terms.",
+
+  "PasswordResetPage.headTitle": "Password Reset",
+  "PasswordResetPage.title": "PASSWORD RESET",
+  "PasswordResetPage.description": "To reset your password enter you email address.",
+  "PasswordResetPage.submit": "RESET",
+  "PasswordResetPage.cancel": "CANCEL",
+
+  "PasswordResetConfirmationPage.headTitle": "Confirmation",
+
+  "PincodeVerificationPage.headTitle": "Email Confirmation",
+  "PincodeVerificationPage.title": "SIGN UP",
+  "PincodeVerificationPage.emailLabel": "Email Address",
+  "PincodeVerificationPage.note": "Code has been sent to your e-mail address. If you can’t find it you can always resend the code or try by changing an e-mail address to another one.",
+  "PincodeVerificationPage.cancel": "CANCEL"
+}
