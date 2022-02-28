@@ -37,8 +37,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 
-*.generated.ts
-src/graphql/generated/*
+# *.generated.ts
+# src/graphql/generated/*
 
 .serverless
 .serverless_nextjs
